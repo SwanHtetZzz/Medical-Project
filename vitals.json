@@ -1,7 +1,7 @@
 {
-    "Oxygen Saturation (%)": "100",
-    "Perfusion Index (%)": "3.46",
-    "Pulse Rate (bpm)": "83",
-    "Temperature (\u00b0C)": "36.4",
-    "Respiration Rate (breaths/min)": "50"
+  "Temperature (°C)": "36.4",
+  "Pulse Rate (bpm)": "83",
+  "Respiration Rate (breaths/min)": "50",
+  "Oxygen Saturation (%)": "100",
+  "Perfusion Index (%)": "3.46"
 }
